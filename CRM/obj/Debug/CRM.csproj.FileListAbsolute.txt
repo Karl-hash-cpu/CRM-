@@ -1,0 +1,11 @@
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.Signupform.resources
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.Login1.resources
+C:\Users\karls\source\repos\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\karls\source\repos\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\karls\source\repos\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.exe
+C:\Users\karls\source\repos\CRM\CRM\obj\Debug\CRM.pdb
